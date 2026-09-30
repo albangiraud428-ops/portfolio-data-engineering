@@ -16,4 +16,4 @@ Automatiser la collecte quotidienne des tendances du marché crypto via une API 
 Orchestration du pipeline de données configurée pour une exécution quotidienne autonome à 08h00.
 
 ## 📊 Tableau de bord Power BI
-![Dashboard](Visualisation_TB)
+![Dashboard](Visualisation_TB.png)
